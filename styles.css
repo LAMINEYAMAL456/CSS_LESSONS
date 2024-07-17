@@ -2,8 +2,9 @@ h1 {
     background-color: aqua;
 }
 
-p {
-    font-style: normal;
-    font-weight: bold;
-    font-variant: small-caps;
+div {
+    width: 300px; 
+    border: 15px solid green;
+    /*padding: 50px*/
+    margin: 100px;
 }
